@@ -1,0 +1,12 @@
+:root {
+    --cor-de-fundo: aquamarine;
+}
+
+body{
+    background-color: var(--cor-de-fundo);
+}
+
+.titulo-cabeçalho{
+    color: white;
+    background-color: rgb(56, 56, 56);
+}
