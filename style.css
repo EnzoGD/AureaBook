@@ -1,5 +1,5 @@
 :root {
-    --cor-de-fundo: aquamarine;
+    --cor-de-fundo: #2E2828;
 }
 
 body{
@@ -8,5 +8,6 @@ body{
 
 .titulo-cabeçalho{
     color: white;
-    background-color: rgb(56, 56, 56);
+    background-color: #f65151;
 }
+
